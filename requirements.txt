@@ -3,3 +3,5 @@ playwright==1.44.0
 beautifulsoup4==4.12.3
 pandas
 lxml
+pillow
+greenlet==3.0.3

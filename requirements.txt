@@ -1,6 +1,5 @@
-streamlit==1.35.0
+streamlit
 playwright==1.44.0
 beautifulsoup4==4.12.3
-pandas==2.2.3
-lxml==5.3.0
-numpy==2.1.0
+pandas
+lxml
